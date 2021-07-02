@@ -15,27 +15,25 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          How to reach me{' '}
+          <code className={styles.code}>kerthcet@gmail.com</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://github.com/kerthcet" className={styles.card}>
             <h3>Github &rarr;</h3>
-            <p>https://github.com/kerthcet.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://leetcode-cn.com/u/kerthcet/" className={styles.card}>
             <h3>Leetcode &rarr;</h3>
-            <p>https://leetcode-cn.com/u/kerthcet/</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>WX Official Account &rarr;</h3>
+            <p>微信公众号搜索：TechTrek</p>
           </a>
 
           <a
