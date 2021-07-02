@@ -23,8 +23,6 @@ export default function Home() {
         <p className={styles.description}>
           How to reach me:{' '}
           <code className={styles.code}>kerthcet@gmail.com</code>
-          Location:{' '}
-          <code className={styles.code}>Asia/Shanghai</code>
         </p>
 
         <div className={styles.grid}>
