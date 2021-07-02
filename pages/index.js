@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>TechTrek</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://www.kerthcet.com">kerthcet.com!</a>
         </h1>
 
         <p className={styles.description}>
@@ -20,14 +20,14 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://github.com/kerthcet" className={styles.card}>
+            <h3>Github &rarr;</h3>
+            <p>https://github.com/kerthcet.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h3>Leetcode &rarr;</h3>
+            <p>https://leetcode-cn.com/u/kerthcet/</p>
           </a>
 
           <a
