@@ -27,6 +27,10 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/kerthcet" className={styles.card}>
+            <h3>Introduction &rarr;</h3>
+          </a>
+
+          <a href="https://github.com/kerthcet" className={styles.card}>
             <h3>Github &rarr;</h3>
           </a>
 
@@ -42,6 +46,10 @@ export default function Home() {
 
           <a href="https://wakatime.com/@kerthcet" className={styles.card}>
             <h3>WakaTime &rarr;</h3>
+          </a>
+
+          <a href="https://github.com/kerthcet/ide" className={styles.card}>
+            <h3>VIM &rarr;</h3>
           </a>
         </div>
       </main>
