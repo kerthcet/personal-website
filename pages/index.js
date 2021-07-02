@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://github.com/kerthcet" className={styles.card}>
+          <a href="https://www.kerthcet.com" className={styles.card}>
             <h3>Introduction &rarr;</h3>
           </a>
 
