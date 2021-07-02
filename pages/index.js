@@ -10,6 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <a href="https://github.com/kerthcet" className={styles.card}>
+          <img src="/techtrek-title.png" alt="TechTrek Logo"/>
+        </a>
         <h1 className={styles.title}>
           Welcome to <a href="https://www.kerthcet.com">kerthcet.com!</a>
         </h1>
@@ -55,7 +58,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '} 
-          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} /> {' '}TechTrek
+          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
+          {' '} TechTrek
         </a>
       </footer>
     </div>
