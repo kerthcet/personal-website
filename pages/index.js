@@ -54,8 +54,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '} TechTrek
-          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
+          Powered by{' '} 
+          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} /> TechTrek
         </a>
       </footer>
     </div>
