@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <a href="https://github.com/kerthcet">
+        <a href="https://www.kerthcet.com">
           <img src="/techtrek-title.png" alt="TechTrek Logo"/>
         </a>
 
