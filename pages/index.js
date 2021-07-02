@@ -37,11 +37,11 @@ export default function Home() {
           </a>
 
           <a href="https://leetcode-cn.com/u/kerthcet/" className={styles.card}>
-            <h3>Leetcode &rarr;</h3>
+            <h3>LeetCode &rarr;</h3>
           </a>
 
           <a href="https://wakatime.com/@kerthcet" className={styles.card}>
-            <h3>Wakatime &rarr;</h3>
+            <h3>WakaTime &rarr;</h3>
           </a>
         </div>
       </main>
