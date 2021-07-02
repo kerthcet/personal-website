@@ -13,6 +13,9 @@ export default function Home() {
         <a href="https://github.com/kerthcet">
           <img src="/techtrek-title.png" alt="TechTrek Logo"/>
         </a>
+
+        <br></br>
+
         <h1 className={styles.title}>
           Welcome to <a href="https://www.kerthcet.com">kerthcet.com!</a>
         </h1>
@@ -30,7 +33,7 @@ export default function Home() {
           <a
             href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect" className={styles.card}
           >
-            <h3>微信公众号：TechTrek &rarr;</h3>
+            <h3>微信公众号TechTrek &rarr;</h3>
           </a>
 
           <a href="https://leetcode-cn.com/u/kerthcet/" className={styles.card}>
