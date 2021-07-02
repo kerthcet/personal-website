@@ -35,18 +35,8 @@ export default function Home() {
             href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"
             className={styles.card}
           >
-            <h3>WX Official Account &rarr;</h3>
-            <p>微信公众号搜索：TechTrek</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+            <h3>微信公众号：TechTrek &rarr;</h3>
+            <p></p>
           </a>
         </div>
       </main>
@@ -57,10 +47,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '} 
-          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
-        >
-          {' '}TechTrek
+          Better late than never.{' '} 
+k         <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
