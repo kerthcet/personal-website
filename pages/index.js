@@ -30,14 +30,14 @@ export default function Home() {
             <h3>Introduction &rarr;</h3>
           </a>
 
-          <a href="https://github.com/kerthcet" className={styles.card}>
-            <h3>Github &rarr;</h3>
-          </a>
-
           <a
             href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect" className={styles.card}
           >
             <h3>WeChat Official Account &rarr;</h3>
+          </a>
+
+          <a href="https://github.com/kerthcet" className={styles.card}>
+            <h3>Github &rarr;</h3>
           </a>
 
           <a href="https://leetcode-cn.com/u/kerthcet/" className={styles.card}>
