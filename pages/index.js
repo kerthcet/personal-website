@@ -52,8 +52,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
-          Better late than never.{' '} 
+          Better late than never.
         </a>
       </footer>
     </div>
