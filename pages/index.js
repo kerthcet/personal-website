@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>TechTrek</title>
+        <title>kerthcet</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          How to reach me{' '}
+          How to reach me:{' '}
           <code className={styles.code}>kerthcet@gmail.com</code>
         </p>
 
@@ -54,8 +54,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Powered by{' '} TechTrek
+          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
