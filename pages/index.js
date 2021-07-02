@@ -21,7 +21,6 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I ❤️China && Kobe && Kante!!!
           How to reach me:{' '}
           <code className={styles.code}>kerthcet@gmail.com</code>
           Location:{' '}
