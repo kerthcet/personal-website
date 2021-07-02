@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <a href="https://github.com/kerthcet" className={styles.card}>
+        <a href="https://github.com/kerthcet">
           <img src="/techtrek-title.png" alt="TechTrek Logo"/>
         </a>
         <h1 className={styles.title}>
@@ -27,16 +27,18 @@ export default function Home() {
             <h3>Github &rarr;</h3>
           </a>
 
+          <a
+            href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect" className={styles.card}
+          >
+            <h3>微信公众号：TechTrek &rarr;</h3>
+          </a>
+
           <a href="https://leetcode-cn.com/u/kerthcet/" className={styles.card}>
             <h3>Leetcode &rarr;</h3>
           </a>
 
-          <a
-            href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"
-            className={styles.card}
-          >
-            <h3>微信公众号：TechTrek &rarr;</h3>
-            <p></p>
+          <a href="https://wakatime.com/@kerthcet" className={styles.card}>
+            <h3>Wakatime &rarr;</h3>
           </a>
         </div>
       </main>
@@ -47,8 +49,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
           Better late than never.{' '} 
-k         <img src="/techtrek.png" alt="TechTrek Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
